@@ -1,0 +1,20 @@
+# 🛡️ LandCert Secure Government System - Tugas Rancang Blockchain
+
+Sistem dApp berbasis Bash CLI interaktif yang terhubung langsung dengan Smart Contract Solidity di blockchain lokal Anvil (Foundry). Aplikasi ini ditujukan untuk mempermudah pendaftaran aset tanah oleh pemerintah (BPN) dan sistem pembayaran pajak PBB transparan oleh wajib pajak.
+
+---
+
+## 📝 Prasyarat Sistem & Kebutuhan Lab
+- OS: Linux Ubuntu (WSL2 / VM / Native)
+- Compiler: Solidity `^0.8.13`
+- Framework: Foundry (Anvil & Cast)
+- Interpreter: Bash Shell
+
+---
+
+## ⚙️ Panduan Setup Langkah Demi Langkah
+
+### Langkah 1: Jalankan Blockchain Anvil dengan Database Permanen
+Buka satu terminal kosong, lalu jalankan:
+```bash
+anvil --state state.json

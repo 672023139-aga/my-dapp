@@ -1,0 +1,25 @@
+==============================================
+              LANDCERT SECURE SYSTEM
+                 NOTA PEMBAYARAN PBB
+==============================================
+
+Tanggal Pembayaran : 23-07-2026 18:03:09
+
+ID Sertifikat      : 3
+Lokasi Tanah       : jl dory no 89
+Luas Tanah         : 557 m2
+Nama Pemilik       : redy
+Wallet Pendaftar   : 0x70997970C51812dc3A010C7d01b50e0d17dc79C8
+
+Status Pembayaran  : LUNAS
+
+Transaction Hash:
+0x43d0142921546d033d8bd0130cc772fc9ac3c79b0a5642bc3b6b4f988b2c23b6
+
+==============================================
+        PEMBAYARAN PBB BERHASIL
+==============================================
+       Terima kasih telah melakukan
+          pembayaran PBB melalui
+           LANDCERT SECURE SYSTEM
+==============================================
